@@ -1,0 +1,778 @@
+SECTION 01 — TECH ROOKIE
+A. HTML Fundamentals
+Basic
+What is HTML?
+What is the difference between HTML and HTML5?
+What is the purpose of <!DOCTYPE html>?
+What are semantic HTML elements?
+Difference between <div> and <section>.
+Difference between <section> and <article>.
+What is the purpose of <header>, <nav>, <main>, <footer>?
+Difference between <b> and <strong>.
+Difference between <i> and <em>.
+What is the purpose of the alt attribute?
+What happens if an image does not have an alt attribute?
+Difference between id and class.
+Can multiple elements have the same id?
+Can an element have multiple classes?
+What is the purpose of the <form> element?
+Difference between GET and POST in forms.
+What are name, value, placeholder, and required attributes?
+Difference between <input type="text">, email, password, number, and checkbox.
+What is the purpose of <label>?
+Why should a label be associated with an input?
+Conceptual
+Why is semantic HTML important?
+How does HTML affect SEO?
+How does HTML affect accessibility?
+What happens when a browser receives an HTML document?
+What is the DOM?
+Is the DOM the same thing as HTML?
+What is the difference between an HTML element and an HTML attribute?
+What is the difference between block and inline elements?
+Give examples of block-level elements.
+Give examples of inline elements.
+B. CSS Fundamentals
+Basic
+What is CSS?
+What are the three ways to apply CSS?
+Which has higher priority: inline, internal, or external CSS?
+What is a CSS selector?
+Difference between element, class, ID, attribute, and universal selectors.
+What is specificity?
+Calculate the specificity of:
+#container .box p
+What does !important do?
+What is the CSS box model?
+Explain:
+content
+padding
+border
+margin
+Difference between margin and padding.
+What is box-sizing: border-box?
+Difference between display: block, inline, and inline-block.
+What does display: none do?
+Difference between display: none and visibility: hidden.
+What is position: relative?
+What is position: absolute?
+What is position: fixed?
+What is position: sticky?
+What is z-index?
+Flexbox
+What is Flexbox?
+Difference between justify-content and align-items.
+What does flex-direction do?
+What is flex-wrap?
+Difference between align-content and align-items.
+What does gap do?
+How would you center an element horizontally and vertically using Flexbox?
+What happens when flex-direction: column is applied?
+What is the main axis?
+What is the cross axis?
+Grid / Responsive CSS
+What is CSS Grid?
+Difference between Grid and Flexbox.
+What does grid-template-columns do?
+What is a media query?
+How do you make a website responsive?
+What is mobile-first design?
+Difference between px, %, em, rem, vh, and vw.
+Why is rem often preferred over px for scalable typography?
+What is a pseudo-class?
+Difference between :hover and ::before.
+C. JavaScript Fundamentals
+Core JavaScript
+What is JavaScript?
+Difference between JavaScript and Java.
+Difference between var, let, and const.
+What is scope?
+Difference between global, function, and block scope.
+What is hoisting?
+What is the Temporal Dead Zone?
+What are primitive data types in JavaScript?
+What are reference types?
+Difference between null and undefined.
+Difference between == and ===.
+What is type coercion?
+What is NaN?
+How do you check whether a value is NaN?
+What is truthy/falsy?
+List JavaScript falsy values.
+What is a function?
+Difference between function declaration and function expression.
+What is an arrow function?
+Difference between arrow functions and normal functions.
+Arrays / Objects
+How do you create an array?
+Difference between push() and pop().
+Difference between shift() and unshift().
+Difference between slice() and splice().
+What does map() return?
+Difference between map() and forEach().
+What does filter() do?
+What does reduce() do?
+What does find() return?
+How do you check whether an array contains an element?
+What is an object in JavaScript?
+How do you access object properties?
+Difference between dot notation and bracket notation.
+How do you iterate over an object?
+Difference between shallow copy and deep copy.
+DOM
+What is the DOM?
+What does document.getElementById() do?
+Difference between querySelector() and querySelectorAll().
+How do you change an element's text?
+Difference between innerText, textContent, and innerHTML.
+How do you change CSS using JavaScript?
+How do you create an HTML element dynamically?
+How do you add an event listener?
+What is event bubbling?
+What is event delegation?
+D. Java Basics
+What is Java?
+Why is Java platform-independent?
+Difference between JDK, JRE, and JVM.
+What happens when Java code is compiled?
+What is bytecode?
+What is the main() method?
+Why is main() static?
+What are Java primitive data types?
+Difference between primitive and reference types.
+Difference between int and Integer.
+What is type casting?
+Difference between implicit and explicit casting.
+What are operators in Java?
+Difference between && and &.
+Difference between || and |.
+Difference between ++i and i++.
+What are conditional statements?
+Difference between if-else and switch.
+Difference between for, while, and do-while.
+What is a nested loop?
+What is an infinite loop?
+What is a method?
+What is method overloading?
+What is method overriding?
+What is a constructor?
+E. Java OOP Basics
+What is OOP?
+What are the four pillars of OOP?
+Explain encapsulation.
+Explain inheritance.
+Explain polymorphism.
+Explain abstraction.
+Difference between abstraction and encapsulation.
+What is a class?
+What is an object?
+Difference between class and object.
+What is this?
+What is super?
+What is static?
+Can a static method access non-static variables directly?
+What is an interface?
+Difference between interface and abstract class.
+Can Java support multiple inheritance?
+Why doesn't Java allow multiple class inheritance?
+What is the final keyword?
+F. Patterns
+Print a square of *.
+Print a right triangle.
+Print an inverted triangle.
+Print a pyramid.
+Print a number triangle.
+Print Floyd's triangle.
+Print a hollow square.
+Print a diamond.
+Given n, print:
+1
+12
+123
+1234
+Explain the time complexity of your nested-loop pattern.
+What determines the number of iterations in a nested loop?
+G. Basic DSA
+What is an array?
+Advantages of arrays.
+Limitations of arrays.
+What is a string?
+Difference between array and ArrayList in Java.
+What is a linked list?
+Array vs linked list.
+What is a stack?
+What is a queue?
+Explain LIFO.
+Explain FIFO.
+What is a HashMap?
+How does a HashMap store data?
+Difference between HashMap and HashSet.
+What is linear search?
+What is binary search?
+What condition must be satisfied before binary search?
+Time complexity of linear search.
+Time complexity of binary search.
+What is sorting?
+Explain bubble sort.
+Explain selection sort.
+Explain insertion sort.
+What is Big-O notation?
+Difference between O(1), O(n), O(log n), and O(n²).
+H. Git & GitHub
+What is Git?
+What is GitHub?
+Git vs GitHub.
+What is a repository?
+What is a commit?
+What is a branch?
+What does git clone do?
+What does git add do?
+What does git commit do?
+What does git push do?
+What does git pull do?
+What does git status show?
+What is .gitignore?
+What is a merge?
+What is a pull request?
+Why are commits important?
+How do you deploy a static website using GitHub Pages?
+SECTION 02 — TECH PRO
+
+This section should become substantially harder.
+
+A. DSA — Arrays
+Find the largest element in an array.
+Find the second-largest element without sorting.
+Find the smallest and second-smallest elements.
+Reverse an array in-place.
+Check whether an array is sorted.
+Remove duplicates from a sorted array.
+Move all zeroes to the end.
+Rotate an array left by one.
+Rotate an array right by k.
+Find the missing number from 1...n.
+Find the maximum subarray sum.
+Solve Two Sum.
+Find duplicate elements.
+Find the intersection of two arrays.
+Find the union of two arrays.
+Find the majority element.
+Find the longest subarray with a given sum.
+Find the maximum profit from stock prices.
+B. Two Pointers / Sliding Window
+Explain the two-pointer technique.
+When can two pointers be used?
+Solve Two Sum in a sorted array.
+Reverse a string using two pointers.
+Check whether a string is a palindrome.
+Remove duplicates using two pointers.
+Find the maximum area between vertical lines.
+Solve 3Sum.
+Explain sliding window.
+Find the maximum sum subarray of size k.
+Find the longest substring without repeating characters.
+Find the smallest window containing a target.
+C. Hashing
+Why is HashMap useful in DSA?
+Solve Two Sum using HashMap.
+Count frequencies of array elements.
+Find the first non-repeating element.
+Find duplicate elements using hashing.
+Find the longest consecutive sequence.
+Group anagrams using HashMap.
+Explain the average-case complexity of HashMap lookup.
+What happens when two keys have the same hash?
+What is a collision?
+How does Java's HashMap handle collisions?
+D. Strings
+Reverse a string.
+Check palindrome.
+Count vowels and consonants.
+Count character frequencies.
+Find the first non-repeating character.
+Check whether two strings are anagrams.
+Remove duplicate characters.
+Reverse words in a sentence.
+Find the longest common prefix.
+Check whether one string is a rotation of another.
+Explain String immutability in Java.
+Why is StringBuilder preferred for repeated string modification?
+Difference between String, StringBuilder, and StringBuffer.
+E. Linked List
+What is a linked list?
+Singly vs doubly linked list.
+Insert a node at the beginning.
+Insert at the end.
+Delete a node.
+Reverse a linked list.
+Find the middle node.
+Detect a cycle.
+Remove a cycle.
+Merge two sorted linked lists.
+Find the nth node from the end.
+Explain Floyd's cycle detection algorithm.
+F. Stack & Queue
+Implement a stack using an array.
+Implement a queue using an array.
+Implement a stack using queues.
+Implement a queue using stacks.
+Check balanced parentheses.
+Find the next greater element.
+Evaluate a postfix expression.
+What is a monotonic stack?
+What is a circular queue?
+Difference between stack and queue.
+G. Recursion
+What is recursion?
+What is a base case?
+What happens if there is no base case?
+Calculate factorial recursively.
+Calculate Fibonacci recursively.
+Reverse a string recursively.
+Find the sum of digits recursively.
+Generate all subsets.
+Generate all permutations.
+Recursion vs iteration.
+What is the space complexity of recursive calls?
+H. Sorting & Searching
+Explain bubble sort.
+Explain selection sort.
+Explain insertion sort.
+Explain merge sort.
+Explain quicksort.
+Compare sorting algorithms by time complexity.
+Which sorting algorithm is stable?
+What is binary search?
+Implement binary search.
+Find first occurrence using binary search.
+Find last occurrence.
+Find square root using binary search.
+Search in a rotated sorted array.
+Find the peak element.
+I. Java — Intermediate
+What is inheritance?
+What is runtime polymorphism?
+Explain method overloading vs overriding.
+What is an abstract class?
+What is an interface?
+Can an interface contain default methods?
+What is encapsulation?
+What is constructor chaining?
+What is exception handling?
+Difference between checked and unchecked exceptions.
+Difference between throw and throws.
+What is try-catch-finally?
+Can finally execute without catch?
+What is garbage collection?
+What is the Java String Pool?
+Why is String immutable?
+Difference between ArrayList and LinkedList.
+Difference between HashMap, HashSet, and TreeMap.
+Difference between Comparable and Comparator.
+What are generics?
+What is autoboxing/unboxing?
+J. SQL
+
+Even though SQL appears explicitly in Tech Elite, 4-star SQL means SQL should not be ignored in preparation.
+
+What is SQL?
+Difference between DDL, DML, DQL, DCL, TCL.
+What is a primary key?
+What is a foreign key?
+What is a candidate key?
+What is normalization?
+What is a JOIN?
+Difference between INNER JOIN and LEFT JOIN.
+Difference between WHERE and HAVING.
+What does GROUP BY do?
+What does ORDER BY do?
+What is an aggregate function?
+Write a query to find the second-highest salary.
+Find duplicate records.
+Find employees earning more than the average salary.
+Find the highest salary in each department.
+What is a subquery?
+What is a correlated subquery?
+What is an index?
+Advantages/disadvantages of indexes.
+What is a transaction?
+Explain ACID properties.
+K. Git/GitHub — Practical
+How do you create a new branch?
+How do you switch branches?
+How do you merge a branch?
+What causes a merge conflict?
+How do you resolve a merge conflict?
+Difference between git fetch and git pull.
+Difference between git reset and git revert.
+What is git stash?
+How would you recover an accidentally deleted commit?
+How would you organize a DSA repository with 175+ solutions?
+Why are meaningful commits important?
+SECTION 03 — TECH ELITE
+
+This is where you separate someone who has completed courses from someone who can actually engineer software.
+
+A. Advanced DSA
+Solve 3Sum.
+Solve 4Sum.
+Merge overlapping intervals.
+Find the minimum number of meeting rooms.
+Product of array except self.
+Find maximum product subarray.
+Find subarray with XOR equal to K.
+Find longest subarray with equal 0s and 1s.
+Find longest consecutive sequence in O(n).
+Solve trapping rain water.
+Solve container with most water.
+Find median of two sorted arrays.
+Find kth largest element.
+Implement LRU Cache.
+Implement Min Stack.
+Detect cycle in a directed graph.
+Detect cycle in an undirected graph.
+BFS vs DFS.
+Implement BFS.
+Implement DFS.
+Find shortest path in an unweighted graph.
+Dijkstra's algorithm — when should it be used?
+Explain topological sorting.
+Detect a cycle using topological sorting.
+Find connected components.
+Find number of islands.
+Implement a Trie.
+Search a word using Trie.
+B. Trees
+What is a binary tree?
+What is a Binary Search Tree?
+Binary tree vs BST.
+Implement preorder traversal.
+Implement inorder traversal.
+Implement postorder traversal.
+Implement level-order traversal.
+Find height of a binary tree.
+Find maximum depth.
+Check whether a tree is balanced.
+Find diameter of a binary tree.
+Find lowest common ancestor.
+Validate whether a tree is a BST.
+Serialize and deserialize a binary tree.
+Explain recursion vs iterative traversal.
+C. Dynamic Programming
+What is dynamic programming?
+What are overlapping subproblems?
+What is optimal substructure?
+Memoization vs tabulation.
+Fibonacci using DP.
+Climbing stairs.
+House Robber.
+Coin Change.
+0/1 Knapsack.
+Longest Common Subsequence.
+Longest Increasing Subsequence.
+Edit Distance.
+Partition Equal Subset Sum.
+How do you identify whether a problem is suitable for DP?
+D. JavaScript — Advanced
+What is lexical scope?
+What is a closure?
+Give a practical use case of closures.
+What is the execution context?
+What is the call stack?
+What is the event loop?
+Explain microtasks vs macrotasks.
+Predict the output:
+console.log("A");
+
+setTimeout(() => {
+    console.log("B");
+}, 0);
+
+Promise.resolve().then(() => {
+    console.log("C");
+});
+
+console.log("D");
+Explain why the output has that order.
+What is a Promise?
+Promise states?
+Difference between Promise and async/await.
+What happens when an async function returns a value?
+What does await actually do?
+What is callback hell?
+How can callback hell be avoided?
+What is debouncing?
+What is throttling?
+Give a real-world use case for debouncing.
+Give a real-world use case for throttling.
+What is destructuring?
+What are spread and rest operators?
+Difference between shallow and deep cloning.
+What is optional chaining?
+What is nullish coalescing?
+What is event bubbling?
+What is event capturing?
+What is event delegation?
+E. REST API / Fetch
+What is an API?
+What is REST?
+What is a RESTful API?
+Difference between GET, POST, PUT, PATCH, DELETE.
+What is HTTP status code 200?
+Difference between 201, 400, 401, 403, 404, and 500.
+What is JSON?
+How do you fetch API data using JavaScript?
+Difference between synchronous and asynchronous API calls.
+How do you handle API errors?
+What happens if the API takes 10 seconds to respond?
+What is CORS?
+Why can CORS errors occur in browsers?
+How would you implement loading/error/success states?
+How would you prevent multiple unnecessary API calls?
+F. React
+What is React?
+Why use React instead of manipulating the DOM manually?
+What is a component?
+Functional vs class components.
+What are props?
+What is state?
+Props vs state.
+What causes a React component to re-render?
+What is JSX?
+Why can't browsers directly understand JSX?
+What is the Virtual DOM?
+How does React update the UI?
+What is useState()?
+What is useEffect()?
+When does useEffect() execute?
+What does the dependency array do?
+What happens with:
+useEffect(() => {
+    console.log("Hello");
+}, []);
+What happens if the dependency array is omitted?
+What is useRef()?
+useRef vs useState.
+What is prop drilling?
+How can prop drilling be avoided?
+What is Context API?
+Context API vs state management library.
+Why are keys required when rendering lists?
+What happens if array index is used as a key?
+Controlled vs uncontrolled components.
+What is lifting state up?
+What is conditional rendering?
+What is component composition?
+How would you structure a large React application?
+G. React Practical Questions
+Build a counter using useState.
+Build a todo application.
+Fetch GitHub user data using an API.
+Display loading while fetching data.
+Display an error when API request fails.
+Add search functionality.
+Add debounce to the search box.
+Implement pagination.
+Implement dark/light mode.
+Share state between sibling components.
+Create a reusable API-fetching component/hook.
+Explain how you would optimize a React application with unnecessary re-renders.
+H. AI Fundamentals
+
+The phrase "Prompting, Loops, skills and hooks" is ambiguous without your actual Tech Passport course material. I would not pretend those terms have one universal definition. AI-agent curricula commonly use related concepts such as prompting, tool use, loops, skills, memory, and hooks, but your assessment may use course-specific definitions.
+
+So prepare questions at the conceptual level:
+
+What is Generative AI?
+What is an LLM?
+How does an LLM generate text?
+What is a token?
+What is context?
+What is prompt engineering?
+What makes a good prompt?
+Difference between zero-shot and few-shot prompting.
+What is role prompting?
+What is structured prompting?
+Why should prompts contain clear constraints?
+What is hallucination?
+Why do LLMs hallucinate?
+How can hallucinations be reduced?
+What is temperature?
+What happens when temperature increases?
+What is an AI agent?
+AI chatbot vs AI agent.
+What is a tool in an AI-agent system?
+Why would an agent need tools?
+What is a tool-calling loop?
+What is an AI workflow?
+What is memory in an AI system?
+What is the difference between short-term and long-term memory?
+What are AI skills?
+What are hooks in an AI-agent workflow?
+Why would you use hooks?
+What happens if an agent enters an infinite loop?
+How would you prevent an AI agent from repeatedly calling the same tool?
+How would you evaluate whether an AI agent is actually useful?
+I. SQL — Elite
+Find the second-highest salary.
+Find the third-highest salary without using LIMIT.
+Find employees whose salary is greater than their manager's.
+Find duplicate records.
+Remove duplicate records.
+Find the highest-paid employee in every department.
+Find the second-highest salary in every department.
+Find employees who joined in the last 6 months.
+Find departments having more than 5 employees.
+Explain window functions.
+Difference between RANK(), DENSE_RANK(), and ROW_NUMBER().
+Use ROW_NUMBER() to find the second-highest salary per department.
+What is a CTE?
+CTE vs subquery.
+What is a self join?
+What is a composite index?
+When can an index hurt performance?
+What is query optimization?
+What is a database deadlock?
+Explain transaction isolation levels.
+J. Project-Based Technical Questions
+
+These are extremely important because the syllabus explicitly requires hosted projects.
+
+Vanilla JavaScript API Project
+Explain your project architecture.
+Why did you choose Vanilla JavaScript instead of React?
+Which API did you use?
+How does your application call the API?
+How do you handle API errors?
+How do you handle loading states?
+What happens when the API is unavailable?
+How do you validate user input?
+How do you prevent unnecessary API requests?
+What was the hardest bug you encountered?
+How did you debug it?
+What would you improve if you had another week?
+How would you make the application production-ready?
+K. React Project
+Why did you choose React?
+Explain your component hierarchy.
+Where is state stored?
+Why is the state stored there?
+Which components are reusable?
+How do components communicate?
+Did you use Context API?
+Did you use any state-management library?
+Why or why not?
+Where do your API calls happen?
+How do you handle loading/error states?
+How do you prevent unnecessary re-renders?
+How do you handle forms?
+How do you handle authentication, if applicable?
+How would you scale this project to 100,000 users?
+What would break first?
+What would you change in the architecture?
+L. GitHub / Repository Questions
+Why should DSA solutions be organized by topic?
+How would you structure:
+DSA/
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Graphs/
+└── DP/
+What makes a good commit?
+What is a bad commit?
+How would you contribute to a shared repository?
+What is a pull request?
+How do you review someone's code?
+What is a merge conflict?
+How do you resolve one safely?
+What should never be committed to GitHub?
+
+Answer: secrets such as API keys, passwords, private credentials, and tokens.
+
+SECTION 04 — HIGH-DIFFICULTY MIXED QUESTIONS
+
+For a top-62 screening test, I would add a final category where topics are deliberately mixed.
+
+601.
+
+You have an array containing 1...n with one missing number. Solve it in O(n) time and O(1) extra space.
+
+602.
+
+You need to find whether an array contains duplicates. Give three approaches and their complexities.
+
+603.
+
+An API returns 10,000 users. You need to search users by name in the frontend. How would you design it?
+
+604.
+
+Your React application is making the same API request multiple times. What could cause this?
+
+605.
+
+A search box calls an API on every keystroke. How would you optimize it?
+
+606.
+
+A Java program is taking O(n²) to process an array. How would you investigate and improve it?
+
+607.
+
+A GitHub repository accidentally contains an API key. What should you do?
+
+608.
+
+Your API returns 401. What does that indicate?
+
+609.
+
+Your API returns 403. How is that different from 401?
+
+610.
+
+Your React component keeps re-rendering indefinitely. What would you inspect?
+
+611.
+
+You have 1 million records and need fast lookup by ID. Which data structure would you consider and why?
+
+612.
+
+You need to process tasks in the exact order they arrive. Which data structure?
+
+613.
+
+You need to undo the last operation repeatedly. Which data structure?
+
+614.
+
+You need to find the shortest path in an unweighted graph. Which algorithm?
+
+615.
+
+You need shortest paths with non-negative weighted edges. Which algorithm?
+
+616.
+
+You need to find whether a dependency graph contains a cycle. How?
+
+617.
+
+You have a recursive algorithm that causes StackOverflowError. What could you change?
+
+618.
+
+Your React application receives data from an API but the UI doesn't update. What would you check?
+
+619.
+
+Your Java HashMap lookup suddenly performs poorly. What underlying concepts would you investigate?
+
+620.
+
+An AI agent keeps calling a tool indefinitely. What safeguards would you implement?
