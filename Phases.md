@@ -1,21 +1,92 @@
-Section 01: Tech Rookie (Tech Passport)
-• HTML, CSS, JS Fundamentals complete
-• Java basics, Patterns and Data Structures
-• 1 static webpage hosted on Git Hub Pages (resume site on landing page)
-• Version control (Git and GitHub) basic learn
+# 🚀 Tech Passport Roadmap
 
-Section 02: Tech Pro (Tech Passport)
-• 60+ problems solved on LeetCode (40 Easy + 20 Medium)
-• 30 problems solved on GeeksforGeeks, School level cleared
-• HackerRank: 3-star Problem Solving, 3-star Java, Problem Solving Basic certificate
-• 2 GitHub repositories maintained with 20+ commits
+## 🟢 Section 01: Tech Rookie
 
-Section 03: Tech Elite (Tech Passport)
-• Strong understanding of AI Fundamentals (Prompting, Loops, skills and hooks)
-• 175 Leetcode problem solved (80 Easy + 80 Medium + 15 Hard)
-• 3 Leetcode contest participated
-• 100 GeeksForGeeks problem solved, Coding score 800+
-• HackerRank: 4-star SQL, Intermediate Java Certificate
-• 1 Vanilla JavaScript Project with real API integration, hosted
-• 1 React Project (multi-Component, state-managed), hosted
-• DSA solution repository with 175+ solutions organized by topic
+### 🎓 Foundations
+
+* ✅ **HTML, CSS & JavaScript** fundamentals completed
+* ✅ **Java Programming** fundamentals, pattern programming & basic Data Structures completed
+* ✅ **Static Web Project** built and hosted on **GitHub Pages**
+
+  * Personal Resume / Landing Page
+* ✅ **Git & GitHub** fundamentals learned
+
+  * Repository management
+  * Commits, branches & basic Git workflow
+
+---
+
+## 🔵 Section 02: Tech Pro
+
+### 💻 Problem Solving & Development
+
+* 🎯 **LeetCode:** 60+ problems solved
+
+  * 40 Easy
+  * 20 Medium
+* 🎯 **GeeksforGeeks:** 30+ problems solved
+
+  * School Level completed
+* 🎯 **HackerRank:**
+
+  * ⭐⭐⭐ 3-Star Problem Solving
+  * ⭐⭐⭐ 3-Star Java
+  * 🏆 Problem Solving (Basic) Certificate
+* 🎯 **GitHub:**
+
+  * 2 actively maintained repositories
+  * 20+ meaningful commits
+
+---
+
+## 🟣 Section 03: Tech Elite
+
+### 🧠 Advanced Problem Solving & Development
+
+#### 🤖 AI Fundamentals
+
+* Strong understanding of **AI fundamentals**
+* Prompt Engineering & effective prompting
+* Understanding of **Loops, Skills & Hooks**
+* Practical usage of AI-assisted development workflows
+
+#### 💻 Competitive Programming & DSA
+
+* 🏆 **LeetCode:** 175+ problems solved
+
+  * 80 Easy
+  * 80 Medium
+  * 15 Hard
+* 🏆 **LeetCode:** 3+ contests participated
+* 🏆 **GeeksforGeeks:** 100+ problems solved
+* 🏆 **GeeksforGeeks Coding Score:** 800+
+* 📚 **DSA Repository:** 175+ solutions organized by topic
+
+#### 🏅 HackerRank
+
+* ⭐⭐⭐⭐ **4-Star SQL**
+* 📜 **Intermediate Java Certificate**
+
+#### 🌐 Projects
+
+* 🚀 **Vanilla JavaScript Project**
+
+  * Real-world API integration
+  * Hosted online
+* ⚛️ **React Project**
+
+  * Multi-component architecture
+  * State management
+  * Hosted online
+
+---
+
+## 📊 Tech Passport Progress
+
+| Level          | Focus                      |                   Target |
+| -------------- | -------------------------- | -----------------------: |
+| 🟢 Tech Rookie | Fundamentals               |               Foundation |
+| 🔵 Tech Pro    | Problem Solving            |   60+ LeetCode + 30+ GFG |
+| 🟣 Tech Elite  | Advanced DSA & Development | 175+ LeetCode + Projects |
+
+> **Goal:** Progress from strong technical foundations → consistent problem solving → advanced DSA, AI, and real-world development.
