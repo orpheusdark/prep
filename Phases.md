@@ -1,6 +1,6 @@
 # 🚀 Tech Passport Roadmap
 
-## 🟢 Section 01: Tech Rookie
+## 🟢 Phase 01: Tech Rookie
 
 ### 🎓 Foundations
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔵 Section 02: Tech Pro
+## 🔵 Phase 02: Tech Pro
 
 ### 💻 Problem Solving & Development
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 🟣 Section 03: Tech Elite
+## 🟣 Phase 03: Tech Elite
 
 ### 🧠 Advanced Problem Solving & Development
 
